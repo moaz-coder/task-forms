@@ -1,0 +1,28 @@
+.btn1{
+    position: relative;
+    top:20px;
+    background-color: SlateBlue;
+}
+.moaz{
+    background-image: url("../image/bg-intro-desktop.png");
+    background-color: rgb(221, 67, 67);
+width: 100%;
+padding: 100px;
+}
+.col-6 {
+    padding-top: 130px;
+}
+
+.textleft{
+    padding-top: 100px;
+    color: rgb(235, 235, 243);
+    
+}
+.Formss{
+    padding: 20px;
+    
+}
+.col-6 {
+    padding-top: 60px;
+    
+}
